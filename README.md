@@ -5,11 +5,12 @@ A list app for Shareworks, to access Ruby on Rails knowledge. This is a time-box
 **You have 4 hours to resolve as many as these issues as you can**
 Select 1 issue to work on at a time.
 Please read each issue carefully as their requirements are sometimes not as simple as they suggest.
+We believe in using the tools you love, as part of this we do not count the setup of your ruby environment against the 4 hour mark.
 
 ## Mentaility
 If you have questions about the tickets you are working on, please feel free to reach out to a member of our team. 
 This project is to access your technical skills as well as your working process. 
-We believe that questions should be asked early and often, just like out commits :).
+We believe that questions should be asked early and often, just like our commits :).
 
 ## Installing ruby
 Homebrew is a common way to install system dependancies on Mac Osx. We suggest that you use it to install Ruby, if you don't have it checkout the following link:
