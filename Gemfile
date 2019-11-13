@@ -5,7 +5,7 @@ ruby '2.5.1'
 
 gem 'devise'
 gem 'rails', '~> 5.2.1'
-gem 'pg', '>= 0.18', '< 2.0'
+gem 'sqlite3', '~> 1.3', '>= 1.3.11'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 gem 'sass-rails', '~> 5.0'
