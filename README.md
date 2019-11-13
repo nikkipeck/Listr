@@ -24,9 +24,18 @@ echo "eval('rbenv -int')" > ~/.bash_profile
 source ~/.bash_profile
 ```
 
+Alternatively, you are more than welcome to use RVM as your ruby manager. Just run the commands below:
+
+```
+curl -sSL https://get.rvm.io | bash -s stable
+echo "source "$HOME/.rvm/scripts/rvm"" > ~/.bash_profile
+```
+
 Then simply install the ruby version you desire. In this case it would be the following:
 ```
 rbenv install 2.5.1
+# or
+rvm install 2.5.1
 ```
 
 ## Dependancies
