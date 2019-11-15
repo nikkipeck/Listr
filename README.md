@@ -2,13 +2,13 @@
 A list app for Shareworks, to access Ruby on Rails knowledge. This is a time-boxed exercise with 4 issues to replicate the issues that may arise day to day.
 
 ## Rules
-**You have 4 hours to resolve as many as these issues as you can**
+**You have 4 hours to resolve as many of these issues as you can**
 Select 1 issue to work on at a time.
 Please read each issue carefully as their requirements are sometimes not as simple as they suggest.
 
-## Mentaility
-If you have questions about the tickets you are working on, please feel free to reach out to a member of our team. 
-This project is to access your technical skills as well as your working process. 
+## Mentality
+If you have questions about the tickets you are working on, please feel free to reach out to a member of our team.
+This project is to access your technical skills as well as your working process.
 We believe that questions should be asked early and often, just like out commits :).
 
 ## Installing ruby
@@ -29,9 +29,9 @@ Then simply install the ruby version you desire. In this case it would be the fo
 rbenv install 2.5.1
 ```
 
-## Dependancies
+## Dependencies
 
-We have the following depenancies in the system that you need to be aware of.
+We have the following dependencies in the system that you need to be aware of.
 * [Minitest](https://github.com/seattlerb/minitest)
 * [Fixtures](https://guides.rubyonrails.org/testing.html#the-low-down-on-fixtures)
 * [Milligram](https://milligram.io/)
